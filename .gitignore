@@ -1,0 +1,16 @@
+
+
+# === Unreal Engine generated files ===
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+Build/
+Builds/
+.DS_Store
+Thumbs.db
